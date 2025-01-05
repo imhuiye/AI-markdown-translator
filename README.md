@@ -1,3 +1,5 @@
+[简体中文](docs/README_CN.md) | [日语](docs/README_JP.md)
+
 # AI-markdown-translator
 Translate the markdown into various languages and create new markdown files for each.
 
