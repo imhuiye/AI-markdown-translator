@@ -10,7 +10,7 @@
 
 ## 前提条件
 - Python 3.6 或更高版本
-- OpenAI API 密钥
+- OpenAI API 密钥 或使用支持 OpenAI 接口的大语言模型
 
 ## 安装
 

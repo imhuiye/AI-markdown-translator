@@ -10,7 +10,7 @@ Markdownをさまざまな言語に翻訳し、それぞれの新しいMarkdown�
 
 ## 前提条件
 - Python 3.6以上
-- OpenAI APIキー
+- OpenAI APIキーまたはOpenAI接口をサポートする大規模言語モデル
 
 ## インストール
 

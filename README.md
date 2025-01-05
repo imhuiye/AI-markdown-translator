@@ -10,7 +10,7 @@ Translate the markdown into various languages and create new markdown files for 
 
 ## Prerequisites
 - Python 3.6 or higher
-- OpenAI API key
+- OpenAI API key or any large language model that supports the OpenAI interface
 
 ## Installation
 
